@@ -101,3 +101,4 @@ R: distância na qual a intensidade do campo é medida (m)
 ~~~
 
 A constante μ variará conforme o meio no qual o fio se encontra. Porém, geralmente, considera-se o vácuo como meio. Dessa maneira, o valor de μ é constante e denotado por μ0 = 4π .10-7Tm/A = 1,3×10-6Tm/A.
+
