@@ -78,7 +78,26 @@ L – comprimento do solenoide
 O campo magnético terrestre origina-se do movimento relativo ao núcleo e à crosta terrestre, uma vez que essas estruturas giram em diferentes velocidades. A presença de íons no conteúdo magnético do núcleo terrestre e sua rotação dão origem a um campo magnético tridimensional, que perpassa todo o planeta e protege a nossa atmosfera, fazendo com que ela não seja varrida pelas partículas emitidas pelo Sol, conhecidas como vento solar. A interação entre essas partículas e o campo magnético terrestre dá origem às auroras polares.
 As linhas de campo magnético da Terra emanam de uma região próxima ao polo sul geográfico, e mesmo ocorrem com o polo magnético, em que as linhas de campo magnético emergem. Os polos magnéticos e geográficos não são coincidentes devido ao plano de rotação da Terra, que é diferente do plano formado pela Linha do Equador.
 
-#  📌Lei de Ampere
+#  📌Lei de Ampere 
 
-A Lei de Ampère afirma que o sentido do campo magnético é determinado pelo sentido da corrente. Dessa forma, invertendo o sentido da corrente, invertemos também o sentido do campo. Essa relação é representada pela regra da mão direita: o polegar da mão direita indica o sentido convencional da corrente elétrica; e os outros dedos, ao envolverem o condutor por onde passa a corrente, dão o sentido das linhas de campo magnético. Veja uma representação para um condutor retilíneo na figuD]/f[e~[f~[e
-rçra a ir:
+A Lei de Ampère afirma que o sentido do campo magnético é determinado pelo sentido da corrente. Dessa forma, invertendo o sentido da corrente, invertemos também o sentido do campo. Essa relação é representada pela regra da mão direita: o polegar da mão direita indica o sentido convencional da corrente elétrica; e os outros dedos, ao envolverem o condutor por onde passa a corrente, dão o sentido das linhas de campo magnético. Veja uma representação para um condutor retilíneo na figura a seguir:
+
+![Texto](https://n.i.uol.com.br/licaodecasa/ensmedio/fisica/ampere-01.jpg)
+
+A Lei de Ampère permite ainda, em algumas situações, a determinação da intensidade do campo magnético.
+
+Essa lei  stabelece a intensidade do campo magnético gerado por um condutor retilíneo percorrido por uma corrente elétrica constante de intensidade i, a uma distância do fio condutor.
+
+![Texto](https://www.todoestudo.com.br/wp-content/uploads/2020/06/lei-de-ampere-3.png)
+
+Matematicamente, essa relação fica da seguinte forma:
+
+![Texto](https://www.todoestudo.com.br/wp-content/uploads/2020/07/lei-de-ampere-4.jpg)
+~~~
+μ: Permeabilidade magnética do meio (Tm/A)
+i: intensidade da corrente elétrica (A)
+B: intensidade do campo magnético (T)
+R: distância na qual a intensidade do campo é medida (m)
+~~~
+
+A constante μ variará conforme o meio no qual o fio se encontra. Porém, geralmente, considera-se o vácuo como meio. Dessa maneira, o valor de μ é constante e denotado por μ0 = 4π .10-7Tm/A = 1,3×10-6Tm/A.
