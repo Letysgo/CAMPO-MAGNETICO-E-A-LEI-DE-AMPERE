@@ -42,7 +42,7 @@ Quando uma corrente elétrica percorre um fio condutor $\textcolor{pink}{\text{r
 
 O campo magnético produzido por uma corrente elétrica, denotado pelo símbolo B, pode ser calculado pela fórmula a seguir:
 
-![Texto](https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/03/campo-magnetico-fio-condutor.jpg)
+$$B=\frac{\mu 0i}{2\pi R}$$
 ~~~
 B – campo magnético (T)
 
@@ -57,14 +57,14 @@ R – distância ao fio (m)
 
 Uma $\textcolor{pink}{\text{espira}}$ é um fio condutor fechado, em formato circular. O campo magnético produzido na região central dela pode ser calculado pela fórmula seguinte, confira:
 
-![Texto](https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/03/campo-magnetico-espira-condutora.jpg)
+$$B=\frac{\mu 0i}{2R}$$
 
 ###  Campo magnético de uma bobina (solenoide)
 
 Bobinas, também conhecidas como solenoides, são formadas por um longo fio condutor enrolado diversas vezes, tratando-se, portanto, da combinação de um grande número de espiras.
-A fórmula usada para calcular o campo magnético no interior do solenoide é esta:
+A equação usada para calcular o campo magnético no interior do solenoide é esta:
 
-![Text](https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/03/campo-magnetico-solenoide.jpg)
+$$B=\frac{N\mu 0i}{L}$$
 ~~~
 N – número de voltas do solenoide
 
@@ -92,7 +92,7 @@ Essa lei  stabelece a intensidade do campo magnético gerado por um condutor ret
 
 Matematicamente, essa relação fica da seguinte forma:
 
-![Texto](https://www.todoestudo.com.br/wp-content/uploads/2020/07/lei-de-ampere-4.jpg)
+$$B=\frac{\mu i}{2\pi R}$$
 ~~~
 μ: Permeabilidade magnética do meio (Tm/A)
 i: intensidade da corrente elétrica (A)
