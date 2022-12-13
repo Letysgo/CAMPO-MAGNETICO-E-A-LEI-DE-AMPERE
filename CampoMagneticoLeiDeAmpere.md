@@ -78,3 +78,7 @@ L – comprimento do solenoide
 O campo magnético terrestre origina-se do movimento relativo ao núcleo e à crosta terrestre, uma vez que essas estruturas giram em diferentes velocidades. A presença de íons no conteúdo magnético do núcleo terrestre e sua rotação dão origem a um campo magnético tridimensional, que perpassa todo o planeta e protege a nossa atmosfera, fazendo com que ela não seja varrida pelas partículas emitidas pelo Sol, conhecidas como vento solar. A interação entre essas partículas e o campo magnético terrestre dá origem às auroras polares.
 As linhas de campo magnético da Terra emanam de uma região próxima ao polo sul geográfico, e mesmo ocorrem com o polo magnético, em que as linhas de campo magnético emergem. Os polos magnéticos e geográficos não são coincidentes devido ao plano de rotação da Terra, que é diferente do plano formado pela Linha do Equador.
 
+#  📌Lei de Ampere
+
+A Lei de Ampère afirma que o sentido do campo magnético é determinado pelo sentido da corrente. Dessa forma, invertendo o sentido da corrente, invertemos também o sentido do campo. Essa relação é representada pela regra da mão direita: o polegar da mão direita indica o sentido convencional da corrente elétrica; e os outros dedos, ao envolverem o condutor por onde passa a corrente, dão o sentido das linhas de campo magnético. Veja uma representação para um condutor retilíneo na figuD]/f[e~[f~[e
+rçra a ir:
