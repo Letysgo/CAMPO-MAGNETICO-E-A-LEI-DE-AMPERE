@@ -40,11 +40,10 @@ Quando uma corrente elétrica percorre um fio condutor $\textcolor{pink}{\text{r
 
 ![Texto](https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/03/campo-magnetico-fio-retilineo.jpg)
 
-~~~
 O campo magnético produzido por uma corrente elétrica, denotado pelo símbolo B, pode ser calculado pela fórmula a seguir:
 
-B=μ0.i/2piR
-
+![Texto](https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/03/campo-magnetico-fio-condutor.jpg)
+~~~
 B – campo magnético (T)
 
 μ0 – permeabilidade magnética do vácuo (4π.10 –7 T.m/A)
@@ -52,12 +51,22 @@ B – campo magnético (T)
 i – corrente elétrica (A)
 
 R – distância ao fio (m)
+~~~
 
 ### Campo magnético de uma espira condutora
 
 Uma $\textcolor{pink}{\text{espira}}$ é um fio condutor fechado, em formato circular. O campo magnético produzido na região central dela pode ser calculado pela fórmula seguinte, confira:
-~~~
-B=μ0.i/2R
-~~~
 
+![Texto](https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/03/campo-magnetico-espira-condutora.jpg)
 
+###  Campo magnético de uma bobina (solenoide)
+
+Bobinas, também conhecidas como solenoides, são formadas por um longo fio condutor enrolado diversas vezes, tratando-se, portanto, da combinação de um grande número de espiras.
+A fórmula usada para calcular o campo magnético no interior do solenoide é esta:
+
+![Text](https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/03/campo-magnetico-solenoide.jpg)
+~~~
+N – número de voltas do solenoide
+
+L – comprimento do solenoide
+~~~
