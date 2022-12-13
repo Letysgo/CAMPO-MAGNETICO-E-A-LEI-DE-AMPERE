@@ -1,12 +1,12 @@
-# Campo Magnético
+# 📌Campo Magnético
 Campo Magnético é a concentração de magnetismo que é criado em torno de uma carga magnética num determinado espaço. O campo magnético é uma grandeza física vetorial medida em tesla (T). É o ímã que cria o campo magnético, da mesma forma como é a carga elétrica e a massa que, respectivamente, criam os campos elétrico e gravitacional. Isso pode ser mostrado através da imagem de um vetor, um ímã, que é representado pelo vetor B. As linhas de indução partem dos vetores de indução magnética e dirigem-se do polo norte para o polo sul:
 
 ![Texto](https://static.todamateria.com.br/upload/58/74/5874fe47191e1-campo-magnetico.jpg)
 
 Tanto o campo magnético produzido pelos ímãs naturais quanto aquele gerado por ímãs artificiais são resultado da movimentação das cargas elétricas no interior dos ímãs.
-Quando uma partícula eletricamente carregada move-se, dá-se origem a um campo magnético. De acordo com as leis do eletromagnetismo, esse campo magnético origina-se da variação de intensidade do campo elétrico.
+Quando uma partícula eletricamente carregada se move, dá-se origem a um campo magnético. De acordo com as leis do eletromagnetismo, esse campo magnético origina-se da variação de intensidade do campo elétrico.
 
-## Características do Material Magnético
+## Características do Material Magnético🧲
 
 Nos materiais magnéticos, como nos ímãs naturais, o campo magnético é resultado do alinhamento de um grande número de domínios magnéticos, que são regiões microscópicas no interior do ímã, dotadas de um campo magnético, como se fossem pequenas bússolas. A forma como os domínios magnéticos estão organizados define qual é o tipo de magnetismo presente no material. Na figura a seguir, mostramos como são dispostos os domínios magnéticos de materiais:
 
@@ -70,3 +70,11 @@ N – número de voltas do solenoide
 
 L – comprimento do solenoide
 ~~~
+
+### Campo magnético terrestre 🌍
+
+![Texto](https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/03/campo-magnetico-terrestre.jpg)
+
+O campo magnético terrestre origina-se do movimento relativo ao núcleo e à crosta terrestre, uma vez que essas estruturas giram em diferentes velocidades. A presença de íons no conteúdo magnético do núcleo terrestre e sua rotação dão origem a um campo magnético tridimensional, que perpassa todo o planeta e protege a nossa atmosfera, fazendo com que ela não seja varrida pelas partículas emitidas pelo Sol, conhecidas como vento solar. A interação entre essas partículas e o campo magnético terrestre dá origem às auroras polares.
+As linhas de campo magnético da Terra emanam de uma região próxima ao polo sul geográfico, e mesmo ocorrem com o polo magnético, em que as linhas de campo magnético emergem. Os polos magnéticos e geográficos não são coincidentes devido ao plano de rotação da Terra, que é diferente do plano formado pela Linha do Equador.
+
